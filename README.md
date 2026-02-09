@@ -11,6 +11,90 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+# 👋 Hi, I'm [Your Name]
+
+🚀 Junior–Mid Level **Laravel Developer**  
+🛠️ DevOps Fundamentals | CI/CD | Cloud Basics  
+💡 Passionate about building scalable backend systems and improving deployment workflows
+
+---
+
+## 👨‍💻 About Me
+
+- 🧑‍💻 Laravel developer with hands-on experience in real-world projects
+- 🏗️ Strong understanding of **MVC architecture**, REST APIs, and backend logic
+- ⚙️ Completed a **short course in DevOps**, familiar with modern deployment practices
+- 🌱 Continuously learning about **system performance, security, and automation**
+- 🤝 Open to collaboration on Laravel and backend-focused projects
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- PHP, Laravel
+- RESTful APIs
+- Authentication & Authorization
+- Database Design
+
+### Frontend (Basics)
+- HTML, CSS, Bootstrap
+- Blade Templates
+- Basic JavaScript
+
+### Databases
+- MySQL
+- PostgreSQL (basic)
+
+### DevOps & Tools
+- Linux (Ubuntu)
+- Git & GitHub
+- Docker (basic)
+- CI/CD fundamentals
+- Nginx (basic configuration)
+- Cloud basics (AWS / DigitalOcean – beginner level)
+
+---
+
+## 📦 What I Can Do
+
+- Build and maintain Laravel applications
+- Create REST APIs for web and mobile apps
+- Implement authentication, roles & permissions
+- Optimize database queries and backend performance
+- Set up basic CI/CD pipelines
+- Deploy applications on Linux servers
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Laravel features
+- Docker & container orchestration
+- Automated testing
+- Server monitoring & logging
+- Cloud infrastructure best practices
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact Me
+
+- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+> 💬 *"Good code is not just written — it’s deployed, maintained, and improved."*
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.sovannarithned-beep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.sovannarithned-beep" height="30" width="40" /></a>
