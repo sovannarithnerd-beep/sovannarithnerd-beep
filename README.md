@@ -71,7 +71,7 @@
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chin-sovannarith-1785a62b4/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chin-sovannarith-1785a62b4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 
 ---
