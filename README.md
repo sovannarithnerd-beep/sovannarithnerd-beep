@@ -68,29 +68,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sovannarithnerd-beep&show_icons=true&theme=vue&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovannarithnerd-beep&theme=vue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sovannarithnerd-beep&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://fb.com/YOUR_FACEBOOK" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://dev.to/YOUR_DEVTO" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-</p>
+
 
 ---
 
